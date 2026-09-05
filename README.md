@@ -7,9 +7,9 @@ Je recherche un CDI en tant que Développeur Full Stack à partir d'Octobre 2026
 
 ## 🔧 Stack technique
 
-**Stack technique :** React.js · Java · Spring Boot
-**CI/CD :** Jenkins · GitHub Actions
-**Data :** PostgreSQL · MongoDB
+* **Stack technique :** React.js · Java · Spring Boot
+* **CI/CD :** Jenkins · GitHub Actions
+* **Data :** PostgreSQL · MongoDB
 
 ## 🚀 Projets
 
